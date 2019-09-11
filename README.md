@@ -15,5 +15,3 @@ All lessons will be led by club members. Please message me on Slack or Discord i
 `Schedule Coming Soon`
 
 You can download GitHub desktop from [here](https://desktop.github.com/), which will be useful in submitting pull requests to the repository.
-
-To code on your browser, you can use [repl.it](https://repl.it).
