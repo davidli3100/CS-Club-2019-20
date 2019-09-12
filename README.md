@@ -2,7 +2,9 @@
 
 This repository contains all the resources used in the John Fraser Computer Science club for the academic year of 2019/2020. 
 
-We will be exploring Software Development in depth, including building Cloud Actions with Google Assistant, creating APIs using Node + Express, and potentially some frontend frameworks such as React, or just pure HTML/CSS/EJS
+We will be exploring Software Development in depth, including building Cloud Actions with Google Assistant, creating APIs using Node + Express, and potentially some frontend frameworks such as React, or just pure HTML/CSS/EJS.
+
+Time permitting, there will also be a longer project where we make a neural network that can read your handwriting using Tensorflow
 
 It is best to use a desktop editor with the various runtimes installed on your computer, but if you need to code on your browser, please make an account for [codesandbox.io](Codesandbox).
 
