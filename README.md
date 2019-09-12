@@ -29,6 +29,7 @@ All lessons will be led by club members. Please message me on Slack or Discord i
 | Oct 31 | Introduction to Node.JS and APIs | Covering the basics of ES2019, as well as the `fetch` library |
 | Nov 7 | Creating APIs in Node.JS | Create your own API using Firebase and Node built-ins |
 | Nov 14 | Dynamic Webpages with Node.JS and ejs | Serving dynamic webpages based on your custom API |
+| TBD | More to come soon... | |
 
 #### Helpful VS Code Extensions
 
