@@ -1,5 +1,5 @@
 # JFSS Computer Science Club
----
+
 This repository contains all the resources used in the John Fraser Computer Science club for the academic year of 2019/2020. 
 
 We will be exploring Software Development in depth, including building Cloud Actions with Google Assistant, creating APIs using Node + Express, and potentially some frontend frameworks such as React, or just pure HTML/CSS/EJS
@@ -10,7 +10,7 @@ This page will be updated as time goes on.
 
 
 ## Lesson Scheduling
----
+
 All lessons will be led by club members. Please message me on Slack or Discord if you would like to teach a particular lesson, or if you have suggestions for what to learn.
 
 ###### Workshop content created by David Li
@@ -29,8 +29,7 @@ All lessons will be led by club members. Please message me on Slack or Discord i
 | Nov 14 | Dynamic Webpages with Node.JS and ejs | Serving dynamic webpages based on your custom API |
 
 #### Helpful VS Code Extensions
----
-#
+
 | Name | Description |
 | ------ | ------ |
 | [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | General tool to help with JS development. Code completion, formatting, IntelliSense, etc. |
@@ -39,7 +38,6 @@ All lessons will be led by club members. Please message me on Slack or Discord i
 | [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | Autocompletes filenames |
 
 #### Prerequisite software/libraries
----
 
 You can download GitHub desktop from [here](https://desktop.github.com/), which will be useful in submitting pull requests to the repository or keeping track of your work
 
