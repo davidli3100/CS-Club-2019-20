@@ -6,7 +6,7 @@ We will be exploring Software Development in depth, including building Cloud Act
 
 Time permitting, there will also be a longer project where we make a neural network that can read your handwriting using Tensorflow
 
-It is best to use a desktop editor with the various runtimes installed on your computer, but if you need to code on your browser, please make an account for [codesandbox.io](Codesandbox).
+It is best to use a desktop editor with the various runtimes installed on your computer, but if you need to code on your browser, please make an account for [codesandbox.io](https://Codesandbox.io).
 
 This page will be updated as time goes on.
 
